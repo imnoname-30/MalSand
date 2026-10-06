@@ -1,5 +1,7 @@
 # Tài liệu về Setup Cuckoo theo bản cũ (Cuckoo 0.4.8)
 
+Ngày hoàn thiện: 05/09/2026 (DD/MM/YYYY)
+
 Tài liệu Cuckoo ở trang web cũ do thiếu khá nhiều, hướng dẫn khá khó hiểu và cũng như khá khó để bám sát hướng dẫn. Nên tôi đã tự viết lại một repo về cách hướng dẫn setup dễ hiểu và làm được sát theo hướng dẫn. Bên dưới sẽ là mục lục cũng như thứ tự khuyến khích bám sát tránh việc bị mắc kẹt ở một thời điểm nào đó trong tương lai.
 
 Cuckoo docs
